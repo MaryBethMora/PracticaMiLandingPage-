@@ -1,9 +1,25 @@
+/* Desde esta linea hasta la linea 15
+está el codigo para hacer la página responsiva */
+
+img#responsive {
+  display: none;
+}
+
+@media screen and (max-width: 768px){
+ img#responsive {
+   display: block;
+ }
+ img{
+   display: none;
+ }
+}
+
 body{
   margin: 0px;
   padding: 0px;
 }
 
 img{
-  width: 100%;
+  max-width: 100%;
   vertical-align: top;
 }
