@@ -1,6 +1,9 @@
 body{
   margin: 0px;
   padding: 0px;
+  
+  /* TENEMOS QUE RESOLVER URGENTEMENTE AGREGAR BORDE A LA PAGINA */
+  border: 10px solid gray;
 }
 
 img{
