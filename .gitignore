@@ -1,0 +1,8 @@
+
+# Vamos a ignorar los siguientes archivos:
+Claves del proyecto.txt
+
+
+
+# Vamos a ignorar las siguientes carpetas:
+/confidencial/
